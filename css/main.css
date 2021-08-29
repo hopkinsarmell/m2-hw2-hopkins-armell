@@ -25,6 +25,10 @@ img {
   width: 91%;
 }
 
+.alert-info {
+  text-align: center;
+}
+
 @media (min-width: 768px) {
 
   .row {
