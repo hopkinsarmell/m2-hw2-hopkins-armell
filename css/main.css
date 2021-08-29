@@ -8,6 +8,10 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
   display:block;
 }
 
+body {
+  margin-bottom: 70px;
+}
+
 h1 {
   text-align: center;
   margin: 109px 0 37px 0;
