@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+  display:block;
+}
+
+.row {
+    justify-content: space-around;
+}
+
+img {
+  vertical-align: middle;
+  border-style: none;
+  margin: 20px 0 0 4%;
+  width: 91%;
+}
+
+@media (min-width: 768px) {
+
+  .row {
+    flex-flow: nowrap;
+}
+
+}
