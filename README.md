@@ -1,5 +1,6 @@
 # m2-hw2-hopkins-armell
 Assignment 2 of MMC6278
 
-1. I was unclear about using an external stylesheet or only bootstrap. Seeing how the instructions didn't say, I decided to use one as we did in class to make minor changes.
-2. No outside resources were used.
+**Issues:** I was unclear about using an external stylesheet or only Bootstrap. I didn't see specifications in the instructions, So I decided to use an external stylesheet as we did in class.
+
+**Resources:** No outside resources were used.
