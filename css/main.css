@@ -17,10 +17,6 @@ h1 {
   font-size: 2rem;
 }
 
-.row {
-    justify-content: space-around;
-}
-
 img {
   vertical-align: middle;
   border-style: none;
@@ -33,10 +29,6 @@ img {
 }
 
 @media (min-width: 768px) {
-
-  .row {
-    flex-flow: nowrap;
-}
 
   h1 {
     margin: 80px 0 70px 0;
